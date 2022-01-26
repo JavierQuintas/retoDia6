@@ -7,6 +7,12 @@
     //     let resultado = op1 + op2 + op3;
     //     return resultado
     // }
+    function sumCalculadora(op1, op2, op3 = 4) 
+    {
+
+        let resultado = op1 + op2 + op3;
+        return resultado
+    }
 
 
     function subsCalculadora(op1, op2) 
