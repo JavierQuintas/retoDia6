@@ -1,12 +1,12 @@
 // RETO 2 FICHERO INDEX CON LAS FUNCIONES DE LA CALCULADORA POR SEPARADO
 
 
-    function sumCalculadora(op1, op2, op3= 3) 
-    {
+    // function sumCalculadora(op1, op2, op3= 3) 
+    // {
 
-        let resultado = op1 + op2 + op3;
-        return resultado
-    }
+    //     let resultado = op1 + op2 + op3;
+    //     return resultado
+    // }
 
 
     function subsCalculadora(op1, op2) 
